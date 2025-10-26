@@ -24,6 +24,7 @@ This is my **Day 3 AI Bootcamp project**, where I worked on **object detection**
 
 ## 📷 Sample Output
 Output shows detected objects (like cars, pedestrians, or road signs) with bounding boxes and confidence scores.
+![Object Detection Output]()
 
 ## 🏁 Conclusion
 This project helped me understand how **computer vision models** can identify and locate objects in real-world driving images — a key concept in autonomous driving systems.
